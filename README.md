@@ -1,3 +1,3 @@
 ### Todo
-- [] Upload image
-- [] Image preprocessing sebelum feed ke model
+- [x] Upload image
+- [x] Image preprocessing sebelum feed ke model
